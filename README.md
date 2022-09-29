@@ -7,5 +7,8 @@ No installation required
 ## Usage
 Multiplication tables coded to print out horizontally. 
 
+# Contributing
+None
+
 ## License
 ©2022DadaDesigns
